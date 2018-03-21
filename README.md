@@ -1,20 +1,5 @@
-# PU
 
-# Source package for core code
-# Source package for core code
-
-# Table of contents
-1. [Our project](#PsykiskHelse)
-2. [setup](##Running the software)
-3. [Installation](##Installation)
-4. [Test](##Test)
-5. [API reference](##API reference)
-5. [Built with](##Built with)
-5. [Contributors](##Contributors)
-5. [License](##License)
-
-
-#PsykiskHelse [! [Build Status] (build-git.png)](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35) [![] (build-git.png)]
+# PsykiskHelse [! [Build Status] (build-git.png)](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35) [![] (build-git.png)]
 NTNU Software Development Project - Team 35
 
 ![](forside.png)
@@ -23,13 +8,22 @@ NTNU Software Development Project - Team 35
 
 ![](hovedside.png)
 
-
 PsykiskHelse is a software project under development. Our program is made for school nurses to handle eating disorders among students at the University. Our program makes it possible for the school nurses to uncover eating disorders and begin working towards recovery using the information they get through regular surveys the students answers in our App. Inside their profiles the nurses can; find their students, send them messages and filter the information by criteria. The school nurses can also make notes linked to a student, and contact a student if necessary.
 
 *See [PsykiskHelse](git@gitlab.stud.iie.ntnu.no:tdt4140-2018/35.git) for more details about API og issues.*
 
 
-##Running the software
+# Table of contents
+1. [setup](##Running the software)
+2. [Installation](##Installation)
+3. [Test](##Test)
+4. [API reference](##API reference)
+5. [Built with](##Built with)
+6. [Contributors](##Contributors)
+7. [License](##License)
+
+
+## Running the software
 
 Download the project from git by copy the URL.
 
@@ -49,7 +43,7 @@ This will make the program up and running.
 Should you run into any more trouble, feel free to contact us at jonahag@stud.ntnu.no and we will aid you as best we can!
 
 
-##Installation
+## Installation
 Here you find everything you need to install for our project.
 
 * [Java Eclipse](http://www.eclipse.org/downloads/eclipse-packages/) - Oxygen.2
@@ -59,7 +53,7 @@ Here you find everything you need to install for our project.
 * [Cisco AnyConnect Secure Mobility Client](https://www.cisco.com/c/en/us/support/security/anyconnect-secure-mobility-client-v4-x/model.html)
 
 
-##Test
+## Test
 Here you find all the information about how to run the automated tests for this system.
 
 Using the terminal:
@@ -73,16 +67,16 @@ Using Eclipse Oxygen.2:
 3. The maven will run all the tests in the project.
 
 
-##API reference
+## API reference
 This wikipage lists all the API references in our project:
 
 * [References](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35/wikis/Dokumentasjon/Design-av-REST-API)
 
-##Built with
+## Built with
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-##Contributors
+## Contributors
 
 * **Jonas Haga** - *Scrum master* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
 * **Sverre Spetalen** - *Scrum master* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
@@ -92,6 +86,6 @@ This wikipage lists all the API references in our project:
 * **Cathrine Akre-Aas** - *Team member* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
 * **Nora Kallager** - *Team member* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
 
-##License
+## License
 
 [Apache License, Version 2.0, January 2004](https://www.apache.org/licenses/LICENSE-2.0)
