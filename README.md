@@ -48,14 +48,14 @@ Here you find everything you need to install for our project.
 Here you find all the information about how to run the automated tests for this system.
 
 Using the terminal:
-1. Find the directory where you have the project.
-2. Write mvn test
-3. The maven will run all the tests in the project.
+1. Open terminal
+2. Write `mvn test`, press enter
+3. Maven will run all the tests in the project.
 
 Using Eclipse Oxygen.2:
 1. Right-click on the root-folder
 2. Click on "Run as" and then click Maven test.
-3. The maven will run all the tests in the project.
+3. Maven will run all the tests in the project.
 
 
 ## API reference
