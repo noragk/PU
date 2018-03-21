@@ -14,16 +14,6 @@ PsykiskHelse is a software project under development. Our program is made for sc
 *See [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git) for more details about API og issues.*
 
 
-# Table of contents
-1. [SetUp](#Running the software)
-2. [Installation](#Installation)
-3. [Test](#Test)
-4. [API reference](#API reference)
-5. [Built with](#Built with)
-6. [Contributors](#Contributors)
-7. [License](#License)
-
-
 ## Running the software
 
 Download the project from git by copy the URL.
@@ -80,7 +70,7 @@ This wikipage lists all the API references in our project:
 ## Contributors
 
 * **Jonas Haga** - *Scrum master* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
-* **Sverre Spetalen** - *Scrum master* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
+* **Sverre Spetalen** - *Tester* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
 * **Hans Kristian Ovangen** - *Team member* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
 * **Carl Fredrik Lystad** - *Team member* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
 * **Janine Stang** - *Team member* - [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
