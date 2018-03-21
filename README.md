@@ -28,7 +28,7 @@ Here you find everything you need to install for our project.
 
 ## Running the software
 
-* [AS NURSE:]
+* AS NURSE:
 
 Download the project from git by copy the URL.
 
@@ -48,7 +48,7 @@ This will make the program up and running.
 Should you run into any more trouble, feel free to contact us at jonahag@stud.ntnu.no and we will aid you as best we can!
 
 
-* [AS STUDENT:]
+* AS STUDENT:
 
 Download the project from git by copy the URL.
 
