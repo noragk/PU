@@ -14,6 +14,18 @@ PsykiskHelse is a software project under development. Our program is made for sc
 *See [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git) for more details about API og issues.*
 
 
+## Installation
+Here you find everything you need to install for our project.
+
+* [Java Eclipse](http://www.eclipse.org/downloads/eclipse-packages/) - Oxygen.2
+
+* [Putty](https://www.putty.org) - Only if you are using Windows, not necessary for Mac
+
+* [Cisco AnyConnect Secure Mobility Client](https://www.cisco.com/c/en/us/support/security/anyconnect-secure-mobility-client-v4-x/model.html)
+
+* [Git URL](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git)
+
+
 ## Running the software
 
 Download the project from git by copy the URL.
@@ -32,16 +44,6 @@ Locate the FxApp.java class in the UI-package. Try to run it by right-clicking a
 This will make the program up and running.
 
 Should you run into any more trouble, feel free to contact us at jonahag@stud.ntnu.no and we will aid you as best we can!
-
-
-## Installation
-Here you find everything you need to install for our project.
-
-* [Java Eclipse](http://www.eclipse.org/downloads/eclipse-packages/) - Oxygen.2
-
-* [Putty](https://www.putty.org) - Only if you are using Windows, not necessary for Mac
-
-* [Cisco AnyConnect Secure Mobility Client](https://www.cisco.com/c/en/us/support/security/anyconnect-secure-mobility-client-v4-x/model.html)
 
 
 ## Test
