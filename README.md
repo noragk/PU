@@ -11,7 +11,7 @@ NTNU Software Development Project - Team 35
 
 PsykiskHelse is a software project under development. Our program is made for school nurses to handle eating disorders among students at the University. Our program makes it possible for the school nurses to uncover eating disorders and begin working towards recovery using the information they get through regular surveys the students answers in our App. Inside their profiles the nurses can; find their students, send them messages and filter the information by criteria. The school nurses can also make notes linked to a student, and contact a student if necessary.
 
-*See [PsykiskHelse](git@gitlab.stud.iie.ntnu.no:tdt4140-2018/35.git) for more details about API og issues.*
+*See [PsykiskHelse](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35.git) for more details about API og issues.*
 
 
 # Table of contents
