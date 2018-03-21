@@ -1,6 +1,6 @@
 
 # PsykiskHelse 
-(https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35)
+
 NTNU Software Development Project - Team 35
 
 ![](forside.png)
@@ -15,13 +15,13 @@ PsykiskHelse is a software project under development. Our program is made for sc
 
 
 # Table of contents
-1. [setup](##Running the software)
-2. [Installation](##Installation)
-3. [Test](##Test)
-4. [API reference](##API reference)
-5. [Built with](##Built with)
-6. [Contributors](##Contributors)
-7. [License](##License)
+1. [setup](#Running the software)
+2. [Installation](#Installation)
+3. [Test](#Test)
+4. [API reference](#API reference)
+5. [Built with](#Built with)
+6. [Contributors](#Contributors)
+7. [License](#License)
 
 
 ## Running the software
