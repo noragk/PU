@@ -15,8 +15,7 @@ PsykiskHelse is a software project under development. Our program is made for sc
 
 
 # Table of contents
-1. [Installation](#Installation)
-1. [setup](#Running the software)
+1. [SetUp](#Running the software)
 2. [Installation](#Installation)
 3. [Test](#Test)
 4. [API reference](#API reference)
