@@ -1,5 +1,6 @@
 
-# PsykiskHelse [! [Build Status] (build-git.png)](https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35) [![] (build-git.png)]
+# PsykiskHelse 
+(https://gitlab.stud.iie.ntnu.no/tdt4140-2018/35)
 NTNU Software Development Project - Team 35
 
 ![](forside.png)
